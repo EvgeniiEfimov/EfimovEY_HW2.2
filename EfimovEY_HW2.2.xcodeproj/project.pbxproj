@@ -10,7 +10,7 @@
 		CE4A539126987BFF00561AB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4A539026987BFF00561AB7 /* AppDelegate.swift */; };
 		CE4A539326987BFF00561AB7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4A539226987BFF00561AB7 /* SceneDelegate.swift */; };
 		CE4A539526987BFF00561AB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4A539426987BFF00561AB7 /* ViewController.swift */; };
-		CE4A539826987BFF00561AB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4A539626987BFF00561AB7 /* Main.storyboard */; };
+		CE4A539826987BFF00561AB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4A539626987BFF00561AB7 /* Main.storyboard */; settings = {ASSET_TAGS = (valueRedColor, ); }; };
 		CE4A539A26987C0000561AB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE4A539926987C0000561AB7 /* Assets.xcassets */; };
 		CE4A539D26987C0000561AB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4A539B26987C0000561AB7 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -93,6 +93,9 @@
 		CE4A538526987BFF00561AB7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					valueRedColor,
+				);
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
